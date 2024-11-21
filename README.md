@@ -1,2 +1,2 @@
 # projeto-android
- Site criado sobre curiosidades do android, criado por Gustavo Guanabara para o Curso em Video 
+ Projeto Android / Curso em Video.
